@@ -79,5 +79,4 @@ public class Trie {
       return this.isEnd;
     }
   }
-
 }
